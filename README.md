@@ -1,5 +1,8 @@
 # @kevinmarrec/stylelint-config
 
+> [!IMPORTANT]  
+> Moved to https://github.com/kevinmarrec/config/tree/main/packages/stylelint
+
 ## Description
 
 Opinionated [Stylelint](https://stylelint.io) config.
